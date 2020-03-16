@@ -1,0 +1,2 @@
+Standard deviation of value is 11.147
+Mean of value is 148.093
